@@ -14,7 +14,7 @@ Telefônico** e **Navegador na Internet**.
 
 ## 📊 Diagrama UML
 
-  <img src="docs/iPhone-modelagem.png" alt="Diagrama de Classes">
+  <img src="https://i.imgur.com/mhMmDZn.png">
 
 ### `iPhone`
 
