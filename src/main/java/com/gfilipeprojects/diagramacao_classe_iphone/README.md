@@ -2,7 +2,7 @@
 
 ## 📋 Descrição
 Desafio promovido pela **Digital Innovation One** em parceria com o **Santander**, como parte _Santander
-Bootcamp 2023 - Backend Java_, e também em parceria com a **AWS** no âmbito do Bootcamp _Desenvolvimento Java com Cloud
+Bootcamp 2023 - Backend Java_, e também em parceria com a **GFT** e **AWS** no âmbito do Bootcamp _Desenvolvimento Java com Cloud
 AWS_. **O objetivo deste desafio é representar de forma detalhada e precisa as funcionalidades de um iPhone.**
 
 Este projeto utiliza princípios de programação orientada a objetos e técnicas de modelagem UML para criar uma estrutura
